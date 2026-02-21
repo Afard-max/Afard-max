@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Bravely navigating the glamorous world of carpal tunnel syndrome.</h1>
 
-<!--
-**Afard-max/Afard-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">✨A lifelong learner, always evolving✨</h3>
+<h4 align="center">ARGENTINA</h4>
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Afard-max&color=0e75b6&style=flat-square&label=Profile+views)
+
+* 📬 Email me at [af.alexander.rd@gmail.com](af.alexander.rd@gmail.com)
+
+**Connect with me:** <br>
+<a href="https://www.linkedin.com/in/ruizdiazalexandertech/">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn" width="30">
+</a>
